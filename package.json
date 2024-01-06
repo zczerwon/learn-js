@@ -1,0 +1,20 @@
+{
+  "name": "learn-js",
+  "version": "0.1.0",
+  "description": "first JS program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zczerwon/learn-js.git"
+  },
+  "author": "Zbigniew Czerwonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zczerwon/learn-js/issues"
+  },
+  "homepage": "https://github.com/zczerwon/learn-js#readme"
+}
